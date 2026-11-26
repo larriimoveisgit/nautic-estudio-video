@@ -27,4 +27,4 @@ tour rápido, 1 a 2 s por ambiente
 ## Som
 animada
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.2.0, 26/11/2026)._

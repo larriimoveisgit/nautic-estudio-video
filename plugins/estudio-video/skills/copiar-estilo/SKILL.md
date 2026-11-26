@@ -3,7 +3,7 @@ name: copiar-estilo
 description: Copia o estilo de edição de um vídeo de referência (a Vera, analista de conteúdo do Time Nautic). Assiste o vídeo da pasta ~/Estúdio Nautic/3 - Referências, mede legenda (fonte aproximada, tamanho, cor, destaque, posição, animação), ritmo (tempo médio de plano, zooms, trocas), efeitos, música e estrutura (gancho, corpo, chamada), e grava um estilo reutilizável em 5 - Estilos. Use quando o pedido do Estúdio vier com o estilo "Copiar uma referência", ou o usuário disser "copia o estilo desse vídeo", "quero igual a esse Reel", "faz no estilo desse aqui".
 ---
 
-# Copiar estilo (v1.1.1)
+# Copiar estilo (v1.2.0)
 
 Copie **o jeito**, nunca o conteúdo: não reutilize música, imagem, texto, marca ou rosto de quem fez a referência.
 
