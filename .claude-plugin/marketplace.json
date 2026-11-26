@@ -1,0 +1,14 @@
+{
+  "name": "nautic",
+  "owner": {
+    "name": "Nautic Negócios Imobiliários"
+  },
+  "plugins": [
+    {
+      "name": "estudio-video",
+      "source": "./plugins/estudio-video",
+      "description": "Estúdio de Vídeo Nautic para corretores",
+      "version": "1.1.0"
+    }
+  ]
+}
