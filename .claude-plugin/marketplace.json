@@ -3,6 +3,9 @@
   "owner": {
     "name": "Nautic Negócios Imobiliários"
   },
+  "metadata": {
+    "description": "Ferramentas da Nautic para corretores: Estúdio de Vídeo com estilos prontos, revisor e cópia de estilo."
+  },
   "plugins": [
     {
       "name": "estudio-video",
