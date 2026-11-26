@@ -4,7 +4,7 @@
 
 - id: `nautic-oferta`
 - origem: vídeo feito pela Nautic
-- exemplo: https://nauticnegociosimobiliarios.com.br/estudio/exemplos/oferta-efeitos.mp4
+- exemplo: https://www.youtube.com/watch?v=OckfqEkNLFs
 - combina com: oferta, empreendimento
 
 ## Legenda
@@ -39,4 +39,4 @@ efeito novo a cada 1,5 a 3 s; você em tela cheia; tour de 5 cenas de 2,4 s no f
 ## Som
 trilha que sobe no tour, efeitos de impacto
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.0, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._

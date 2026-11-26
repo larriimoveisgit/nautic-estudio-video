@@ -3,7 +3,7 @@ name: revisor-de-video
 description: Revisor de vídeo do Estúdio Nautic (o Conrado). Confere um vídeo pronto com números e quadros antes de ele chegar ao corretor - gancho no primeiro segundo, legenda legível, zona segura por rede, trechos parados, volume em LUFS, resolução e codec, rosto coberto, fato duro e promessa proibida - e devolve aprovado ou a lista do que corrigir com o tempo exato. Use no fim de toda edição da skill estudio-nautic, ou quando o usuário pedir "revisa esse vídeo", "confere antes de postar", "esse vídeo está bom?".
 ---
 
-# Revisor de vídeo (v1.1.0)
+# Revisor de vídeo (v1.1.1)
 
 Confira com medição, não com impressão. Para cada item: ✅ passou, ❌ falhou (com o tempo `mm:ss` e o conserto), ou ⚠️ atenção.
 

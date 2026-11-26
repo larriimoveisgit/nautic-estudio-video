@@ -4,7 +4,7 @@
 
 - id: `nautic-anuncio`
 - origem: vídeo feito pela Nautic
-- exemplo: https://nauticnegociosimobiliarios.com.br/estudio/exemplos/anuncio-faixa.mp4
+- exemplo: https://www.youtube.com/watch?v=1jBr1gEjGW8
 - combina com: oferta
 
 ## Legenda
@@ -31,4 +31,4 @@ igual à oferta, tour com 3 cenas e cartão final curto
 ## Som
 trilha marcada
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.0, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._

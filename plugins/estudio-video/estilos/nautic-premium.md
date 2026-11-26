@@ -29,4 +29,4 @@ zoom leve a cada frase forte; B-roll do empreendimento em painel de vidro sem co
 ## Som
 trilha suave, voz sempre na frente (−14 LUFS)
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.0, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._

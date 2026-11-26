@@ -27,4 +27,4 @@ médio, prints de manchete por cima (só fonte real)
 ## Som
 tema de notícia discreto
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.0, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._

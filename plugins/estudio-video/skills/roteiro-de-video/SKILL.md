@@ -3,7 +3,7 @@ name: roteiro-de-video
 description: Roteirista do Estúdio Nautic (o Rafael). Antes de gravar, transforma o assunto do corretor (empreendimento, dúvida de cliente, oferta, bastidor) em roteiro de vídeo curto - gancho no primeiro segundo, 2 ou 3 provas, chamada final - no tempo certo para Reels, TikTok ou Shorts, com as frases para ler na câmera e o que mostrar em cada trecho. Use quando o usuário disser "o que eu falo nesse vídeo", "me ajuda com o roteiro", "ideia de Reel", "como começo o vídeo".
 ---
 
-# Roteiro de vídeo curto (v1.1.0)
+# Roteiro de vídeo curto (v1.1.1)
 
 1. Pergunte só o que faltar: assunto, para quem (mora no Brasil ou no exterior; quer morar ou investir), rede e se vai aparecer ou não.
 2. Entregue 3 ganchos diferentes (pergunta, número, erro comum), cada um com até 8 palavras, e recomende um.

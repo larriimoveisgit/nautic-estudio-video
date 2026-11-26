@@ -4,7 +4,7 @@
 
 - id: `nautic-fala-local`
 - origem: vídeo feito pela Nautic
-- exemplo: https://nauticnegociosimobiliarios.com.br/estudio/exemplos/fala-no-local.mp4
+- exemplo: https://www.youtube.com/watch?v=YI-4mh57AOA
 - combina com: educacao, empreendimento
 
 ## Legenda
@@ -32,4 +32,4 @@ zoom no rosto em 3 frases-chave; janelas de B-roll de 3 a 7 s; velocidade 1,1x
 ## Som
 trilha suave + som do mar a 12%
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.0, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._

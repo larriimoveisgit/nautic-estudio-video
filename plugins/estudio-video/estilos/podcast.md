@@ -27,4 +27,4 @@ troca de enquadramento a cada fala; zoom no rosto na resposta forte
 ## Som
 sem música, só voz
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.0, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._

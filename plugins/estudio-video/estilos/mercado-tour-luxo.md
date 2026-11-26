@@ -29,4 +29,4 @@ planos de 2 a 4 s com movimento suave (gimbal), pull-back no ambiente principal
 ## Som
 cinematográfica
 
-_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.0, 26/11/2026)._
+_Gerado de estudio.ts (Estúdio de Vídeo Nautic v1.1.1, 26/11/2026)._
